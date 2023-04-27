@@ -1,0 +1,11 @@
+name: MyBackpackSystem
+version: '${project.version}'
+main: com.backpack.main.main
+api-version: 1.19
+authors: [ Probl3mKind ]
+description: A simple backpack plugin with some configuration options created by Probl3mKind.
+
+commands:
+  Backpack:
+    usuage: /Backpack
+    aliases: [Rucksack,bagpack]
